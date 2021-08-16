@@ -48,11 +48,15 @@ https://razorpay.com/docs/payment-gateway/web-integration/standard/
 Find this Youtube video via link which helps us do the integration.
 https://www.youtube.com/watch?v=SFHbcs-lSio&t=3s
 
+
+<!-- HOW IT WORKS -->
+
 ## Live Version:
 Razorpay Integration - demo page in Local address <br>
 ![Razorpay](https://github.com/Sangi19/razorpay-integration/blob/master/Images/Basic.PNG)   <br>
 
  
+<!-- CONTACT -->
  ## Built by
 
 👤 **Sangeetha Ramkumar**
