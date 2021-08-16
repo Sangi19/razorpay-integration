@@ -18,7 +18,7 @@ Razorpay allows the user business to accept, process, and disburse payments via 
 - [Installation](#Installation)
 - [Contact](#Authors)
 - [How it works](#How-it-works)
-- [Built-by] (#Built-by)
+
 
 <!-- ABOUT THE PROJECT -->
    
