@@ -19,9 +19,7 @@ function App() {
 }
 
   async function callRazorPay(){
-  const res = await loadScript(
-        "https://checkout.razorpay.com/v1/checkout.js"
-    );
+  const res = await loadScript("https://checkout.razorpay.com/v1/checkout.js");
 
 if (!res) {
     alert("Razorpay SDK failed to load. Are you online?");
@@ -39,6 +37,10 @@ var options = {
   
   "handler": function (response){
       alert( `The Payment id is ${response.razorpay_payment_id}`);
+      alert( response.razorpay_order_id);
+      
+
+
   },
   "prefill": {
       "name": "SAM",
